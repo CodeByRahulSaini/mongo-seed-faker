@@ -1,0 +1,11 @@
+{
+  "name": "mongo-faker-seed",
+  "version": "1.0.0",
+  "description": "A tool with FAKER.js power to quickly populate your mongo db from a .json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
