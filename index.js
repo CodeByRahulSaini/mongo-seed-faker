@@ -1,5 +1,5 @@
 /*!
- * mongo-faker-seed
+ * mongo-seed-faker
  *
  * A tool with FAKER.js power to quickly populate your mongo db from a .json file.
  */
