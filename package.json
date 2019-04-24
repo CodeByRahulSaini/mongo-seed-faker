@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["mongo-seed-faker", "mongo-seed", "node-mongo-seed", "database seed", "faker.js", "populate db"],
   "author": "",
   "license": "ISC"
 }
