@@ -132,7 +132,8 @@ seedData = [{
 
 ```
 
-
+## License
+mongo-faker-seed is distributed under MIT license.
 
 ### That's it
 

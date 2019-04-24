@@ -1,6 +1,6 @@
 {
   "name": "mongo-seed-faker",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A tool with FAKER.js power to quickly populate your mongo db from a .json file.",
   "main": "index.js",
   "repository": "github:IMRahulSaini/mongo-seed-faker",
@@ -11,5 +11,5 @@
   },
   "keywords": ["mongo-seed-faker", "mongo-seed", "node-mongo-seed", "database seed", "faker.js", "populate db"],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
